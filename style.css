@@ -95,7 +95,8 @@ window#waybar {
 }
 
 #workspaces button.urgent {
-    background-color: #eb4d4b;
+    background: transparent;
+    color: #E3FFFC
 }
 
 
